@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157819182835",
+    "firebase_url": "https://spotify-b4ab1.firebaseio.com",
+    "project_id": "spotify-b4ab1",
+    "storage_bucket": "spotify-b4ab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157819182835:android:dc71cd62d4e11cea93a186",
+        "android_client_info": {
+          "package_name": "br.com.fulltime.spotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157819182835-4capsql0ne27uu2nn0li2i80qtatbktc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf1UpjkHLnabv87ZTSiSvWFFWOXZK3Y2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157819182835-4capsql0ne27uu2nn0li2i80qtatbktc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
